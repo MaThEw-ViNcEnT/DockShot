@@ -1,6 +1,10 @@
 # CVE Dorker
 
-This script searches for CVEs related to JavaScript files and takes screenshots of the search results on Google.
+This script searches for any text files and takes screenshots of the search results on Google.
+
+##My Purpose
+
+I had a some JavaScript and there version around 100+ js file so to look each of them manually is tricky so i made script to do my work easier
 
 ## Usage
 
