@@ -2,7 +2,7 @@
 
 This script searches for any words in the text file and takes screenshots of the search results on Google.
 
-##My Purpose
+#My Purpose
 
 I had a some JavaScript and there version around 100+ js file so to look each of them manually is tricky so i made script to do my work easier
 
