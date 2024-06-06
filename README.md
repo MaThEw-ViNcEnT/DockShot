@@ -1,6 +1,6 @@
 # CVE Dorker
 
-This script searches for any text files and takes screenshots of the search results on Google.
+This script searches for any words in the text file and takes screenshots of the search results on Google.
 
 ##My Purpose
 
