@@ -1,4 +1,4 @@
-# CVE Dorker
+# DockShot
 
 This script searches for any words in the text file and takes screenshots of the search results on Google.
 
